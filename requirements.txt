@@ -1,0 +1,7 @@
+yfinance        # For fetching stock data
+pandas          # Data manipulation and preprocessing
+scikit-learn    # Preprocessing and scaling
+numpy           # Numerical computations
+matplotlib      # Data visualization
+tensorflow      # Deep learning (LSTM model)
+tk              # For GUI (if tkinter is unavailable)
